@@ -1,1 +1,1 @@
-# A2SV_Contest
+A repository dedicated to store A2SV contests submissions.
